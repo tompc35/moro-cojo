@@ -1,5 +1,15 @@
 # Moro Cojo Modeling and Analysis
 
+## Requirements
+
+Requires [physoce](https://github.com/physoce/physoce-py) and [physoce_obs](https://github.com/physoce/physoce-obs) packages. To install with pip:
+
+```
+pip install git+https://github.com/physoce/physoce-py.git
+pip install git+https://github.com/physoce/physoce-obs.git
+
+```
+
 ## Notebooks
 
 [tidal_height_flow_navd.ipynb](tidal_height_flow_navd.ipynb) - Modeled relationships between water elevation and flow, focused on summer 2016
@@ -11,8 +21,6 @@
 ## Python modules
 
 [data_paths.py](data_paths.py) - used to specify paths to data directories
-
-[noaatide.py](noaatide.py) - tools for working with NOAA tide gauge data
 
 ## Directories
 
