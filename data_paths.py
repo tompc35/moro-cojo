@@ -1,7 +1,7 @@
 from os.path import normpath, join
 
 def base_path():
-    path = normpath('/Users/tomconnolly/work/Data/Moro_Cojo/')
+    path = normpath('Data/')
     return path
 
 def water_level_path():
