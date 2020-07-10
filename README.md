@@ -10,11 +10,14 @@
 
 ## Python modules
 
-`data_paths.py` - used to specify paths to data directories
-`noaatide.py` - tools for working with NOAA tide gauge data
+[data_paths.py](data_paths.py) - used to specify paths to data directories
+
+[noaatide.py](noaatide.py) - tools for working with NOAA tide gauge data
 
 ## Directories
 
 `Data/` - water level and tide gauge data 
+
 `Data_2016` - water level and ADCP data from Summer 2016 (Miranda Baker REU project)
+
 `Documents` - word documents and presentation files
